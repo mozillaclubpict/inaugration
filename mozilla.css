@@ -192,10 +192,13 @@ body {
   {
     margin-left: 5%;
   }
-
+ .sharebar
+ {
+       display:none;
+ }
   p
   {
-    margin-left: 35px;
+    margin-left: 10;
     margin-right: 10px;
   }
 }
